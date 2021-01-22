@@ -68,9 +68,4 @@ prefixo = .
 
 ## Agradecimentos especiais para
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
-
-## Group
-* [`WhatsApp`](https://chat.whatsapp.com/KLfjq8AK4Jz62Pqfz5sv0v)
-### Donate
-* [`Saweria`](https://saweria.co/donate/mhankbarbar)
-* [`Paypal`](https://paypal.me/mhankbarbar)
+* [`MhankBarBar`](https://github.com/MhankBarBar)
