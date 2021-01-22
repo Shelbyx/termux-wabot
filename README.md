@@ -2,73 +2,71 @@
 <img src="https://i.pinimg.com/originals/22/b7/54/22b754e16c3fbfdcbe557adf5f132bea.gif" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/𝚫𝑆𝛵𝑹𝚯  ͢𝜝𝛩𝑻-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 </p>
 
-## Clone this project
+## Clone esse git
 
 ```bash
-> git clone https://github.com/MhankBarBar/termux-wabot
+> git clone https://github.com/Shelbyx/termux-wabot
 ```
 
-## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
+## Instale as dependências:
+Antes de executar o comando abaixo, certifique-se de estar no diretório do projeto que
+você acabou de clonar !!
 
-```bash
+```Comandos para instalar
 > cd termux-wabot
 > bash install.sh
 ```
 
-### Usage
-```bash
+### Comandos para usar
+```
 > npm start
 ```
 
-### Info
+### Prefixo Padrão
 ```
-prefix = .
+prefixo = .
 ```
 
-## Features
+## Características
 
-| Sticker Creator |                Feature           |
+| Criador De Figurinhas |                Característics           |
 | :-----------: | :--------------------------------: |
-|       ✅       | Send Photo with Caption          |
-|       ✅       | Reply A Photo                    |
-|       ✅       | Reply A Video or GIF             |
-|       ✅       | Send Video or GIF with Caption   |
-|       ✅       | Reply A Sticker ( sticker to image ) |
+|       ✅       | Enviar foto com legenda          |
+|       ✅       | Marcar uma foto                     |
+|       ✅       | Marcar um vídeo ou GIF             |
+|       ✅       | Enviar vídeo ou GIF com legenda   |
+|       ✅       | Marcar uma figurinha ( figurinha para imagem ) |
 
-| Other  |                     Feature                     |
+| Outros |                     Características                     |
 | :------------: | :---------------------------------------------: |
-|       ✅        |   Get a random meme             |
-|       ✅        |   Text to speech                |
-|       ✅        |   Writing feature 				|
-|       ✅        |   What Anime Is This 			|
-|       ✅        |   Url2Img ( Screeenshot Web )   |
-|       ✅        |   Simsimi		                |
+|       ✅        |   Obter um meme aleatório             |
+|       ✅        |   Texto para áudio ( Voz Do Google Tradutor)                |
+|       ✅        |   Que anime é esse			|
 
-| Group  |                     Feature               |
+
+| Grupo  |                     Características               |
 | :-----------: | :--------------------------------: |
-|       ✅        |   Tagall/Mentionall member       |
-|       ✅        |   Tagall2/Mentionall member       |
-|       ✅        |   Tagall3/Mentionall member       |
-|       ✅        |   Kick Member Group	             |
-|       ✅        |   Add Member Group	             |
-|       ✅        |   Get List Admins Group          |
-|       ✅        |   Get Group Invite Link          |
-|       ✅        |   Bot leave the group            |
+|       ✅        |   Mencionar Todos os membros1       |
+|       ✅        |   Mencionar Todos os membros2       |
+|       ✅        |   Mencionar Todos os membros3       |
+|       ✅        |   Remover membro do grupo             |
+|       ✅        |   Adicionar membro ao grupo	             |
+|       ✅        |   Obter lista de admins          |
+|       ✅        |   Obter link de convite do grupo          |
+|       ✅        |   O bot sai do grupo             |
 
-| Owner Bot  |                     Feature           |
+| Dono Do Bot  |                     Características           |
 | :-----------: | :--------------------------------: |
-|       ✅        |   Set Prefix                     |
-|       ✅        |   Broadcast                      |
-|       ✅        |   Clear All Chats                |
+|       ✅        |   Mudar Prefixo                     |
+|       ✅        |   Transmissão                      |
+|       ✅        |   Limpar Todas as conversas                |
 
-## Special Thanks to
+## Agradecimentos especiais para
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
 
 ## Group
